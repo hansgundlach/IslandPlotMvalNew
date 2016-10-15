@@ -1,4 +1,4 @@
-# IslandPlotMval
+# IslandPlotMvalNew
 tools for plotting the Mvalues of CpG islands
 
 Install using RStudio
@@ -7,7 +7,7 @@ Install using RStudio
 
 `library(devtools)`
 
-`install_github("hansgundlach/IslandPlotMval")`
+`install_github("hansgundlach/IslandPlotMvalNew")`
 
 ##Credits
 Created by Georg Luebeck 
